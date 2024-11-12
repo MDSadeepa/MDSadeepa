@@ -1,10 +1,8 @@
-# 💫 A little bit about me:
-<table align="center">
-   <tr border="none">
-      <td width="50%" align="left">
-         <h1 align="center">Hi 👋, I'm Sadeepa Kalhara (Initiator)</h1>
-         <br>
-         <h4 align="center">"I'm a backend developer and an undergraduate in Software Engineering with a deep passion for exploring and researching cutting-edge technologies. I thrive on    innovation and constantly seek opportunities to turn creative ideas into impactful solutions."</h4>
+# 💫 Welcome:
+
+### Who am I?
+<h1 align="left">Hi 👋, I'm Sadeepa Kalhara (Initiator)</h1>
+<h4 align="left">"I'm a backend developer and an undergraduate in Software Engineering with a deep passion for exploring and researching cutting-edge technologies. I thrive on    innovation and constantly seek opportunities to turn creative ideas into impactful solutions."</h4>
 
 - 🌱 I’m currently learning **Java, Spring, Spring Boot, PHP, Laravel**
 
@@ -13,22 +11,20 @@
 - 📫 How to reach me **kalhara285@gmail.com**
 
 - ⚡ Fun fact **Call me as Initiator**
-      </td>
-      <td width="50%" align="center">
-  <img align="right" alt="coding" src="Initiator's logo.jpg" width="100%">
-</td>
-   </tr>
-   
-</table>
-
-
-# My Status:
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=mdsadeepa&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsadeepa&&exclude_repo=mdsadeepa&layout=compact&theme=dracula" alt="languages"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdsadeepa&label=Profile%20views&color=0e75b6&style=flat" alt="mdsadeepa" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+## My Logo:
+  <img align="center" alt="coding" src="Initiator's logo.jpg" width="25%">
+
+
+
+## My Status:
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdsadeepa&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsadeepa&&exclude_repo=mdsadeepa&layout=compact&theme=dracula" alt="languages"/>
+
+## Connect with me:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/18cLWybNyH/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sadeepakalharameegodage/?next=https%3A%2F%2Fwww.instagram.com%2F%3F__coig_challenged%3D1) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)]() [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]() 
 <p align="left">
 </p>
 
