@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sadeepa Kalhara</h1>
 <h3 align="center">I'm a backend developer and an undergraduate in Software Engineering</h3>
 
+### MY Status
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdsadeepa&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsadeepa&&exclude_repo=mdsadeepa&layout=compact&theme=dracula" alt="languages"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdsadeepa&label=Profile%20views&color=0e75b6&style=flat" alt="mdsadeepa" /> </p>
 
 - 🌱 I’m currently learning **Java, Spring, Spring Boot, PHP, Laravel**
