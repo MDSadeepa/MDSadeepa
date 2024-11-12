@@ -1,8 +1,8 @@
 <h1 align="left">Hi 👋, I'm Sadeepa Kalhara (Initiator)</h1>
-<h3 align="left">I'm a backend developer and an undergraduate in Software Engineering</h3>
+<h3 align="left">I'm a backend developer and an undergraduate in Software Engineering with a deep passion for exploring and researching cutting-edge technologies. I thrive on innovation and constantly seek opportunities to turn creative ideas into impactful solutions.</h3>
 
 ### My Status
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdsadeepa&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=mdsadeepa&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsadeepa&&exclude_repo=mdsadeepa&layout=compact&theme=dracula" alt="languages"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdsadeepa&label=Profile%20views&color=0e75b6&style=flat" alt="mdsadeepa" /> </p>
