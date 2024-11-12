@@ -23,7 +23,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsadeepa&&exclude_repo=mdsadeepa&layout=compact&theme=dracula" alt="languages"/>
 
 ## 📲 Connect with me:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/18cLWybNyH/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sadeepakalharameegodage/?next=https%3A%2F%2Fwww.instagram.com%2F%3F__coig_challenged%3D1) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)]() [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]() 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/18cLWybNyH/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sadeepakalharameegodage/?next=https%3A%2F%2Fwww.instagram.com%2F%3F__coig_challenged%3D1) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@sadeepakalhara0?is_from_webapp=1&sender_device=pc) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]() 
 <p align="left">
 </p>
 
