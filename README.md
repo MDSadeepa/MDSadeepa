@@ -1,7 +1,19 @@
-<h1 align="left">Hi 👋, I'm Sadeepa Kalhara (Initiator)</h1>
-<h3 align="left">I'm a backend developer and an undergraduate in Software Engineering with a deep passion for exploring and researching cutting-edge technologies. I thrive on innovation and constantly seek opportunities to turn creative ideas into impactful solutions.</h3>
+# 💫 Who am I:
+<table align="center">
+   <tr border="none">
+      <td width="50%" align="left">
+         <h1 align="left">Hi 👋, I'm Sadeepa Kalhara (Initiator)</h1>
+         <h4 align="left">I'm a backend developer and an undergraduate in Software Engineering with a deep passion for exploring and researching cutting-edge technologies. I thrive on    innovation and constantly seek opportunities to turn creative ideas into impactful solutions.</h4>
+      </td>
+      <td width="50%" align="center">
+  <img align="right" alt="coding" src="https://drive.google.com/file/d/1DM3q8Z26W54Az_i8RgisZVcTJbEtDb6c/view?usp=sharing" width="100%">
+</td>
+   </tr>
+   
+</table>
 
-### My Status
+
+# My Status
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=mdsadeepa&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsadeepa&&exclude_repo=mdsadeepa&layout=compact&theme=dracula" alt="languages"/>
 
