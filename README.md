@@ -18,17 +18,16 @@
   <img align="center" alt="coding" src="Initiator's logo.jpg" width="25%">
 
 
-
-## My Status:
+## 📶 My Status:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdsadeepa&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsadeepa&&exclude_repo=mdsadeepa&layout=compact&theme=dracula" alt="languages"/>
 
-## Connect with me:
+## 📲 Connect with me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/18cLWybNyH/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sadeepakalharameegodage/?next=https%3A%2F%2Fwww.instagram.com%2F%3F__coig_challenged%3D1) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)]() [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]() 
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+## 👨‍💻 Technology Stack
 <p align="left"> 
    <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/afcf1c98-544e-41fb-bf44-edba5e62809a" alt="arduino" width="40" height="40"/></a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="bootstrap" width="40" height="40"/> 
