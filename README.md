@@ -4,7 +4,15 @@
       <td width="50%" align="left">
          <h1 align="center">Hi 👋, I'm Sadeepa Kalhara (Initiator)</h1>
          <br>
-         <h4 align="left">I'm a backend developer and an undergraduate in Software Engineering with a deep passion for exploring and researching cutting-edge technologies. I thrive on    innovation and constantly seek opportunities to turn creative ideas into impactful solutions.</h4>
+         <h4 align="center">"I'm a backend developer and an undergraduate in Software Engineering with a deep passion for exploring and researching cutting-edge technologies. I thrive on    innovation and constantly seek opportunities to turn creative ideas into impactful solutions."</h4>
+
+- 🌱 I’m currently learning **Java, Spring, Spring Boot, PHP, Laravel**
+
+- 💬 Ask me about **Java, PHP, Laravel**
+
+- 📫 How to reach me **kalhara285@gmail.com**
+
+- ⚡ Fun fact **Call me as Initiator**
       </td>
       <td width="50%" align="center">
   <img align="right" alt="coding" src="Initiator's logo.jpg" width="100%">
@@ -19,14 +27,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsadeepa&&exclude_repo=mdsadeepa&layout=compact&theme=dracula" alt="languages"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdsadeepa&label=Profile%20views&color=0e75b6&style=flat" alt="mdsadeepa" /> </p>
-
-- 🌱 I’m currently learning **Java, Spring, Spring Boot, PHP, Laravel**
-
-- 💬 Ask me about **Java, PHP, Laravel**
-
-- 📫 How to reach me **kalhara285@gmail.com**
-
-- ⚡ Fun fact **Call me as Initiator**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
