@@ -27,8 +27,6 @@
 
 ---
 
-<h2 align="center">📊 My Status</h2>
-
 <div align="center">
 
 # 📊 GitHub Stats:
