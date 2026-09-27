@@ -31,9 +31,10 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MDSadeepa&show_icons=true&theme=tokyonight&v=new)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MDSadeepa&layout=compact&theme=tokyonight&v=new)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MDSadeepa&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MDSadeepa&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MDSadeepa&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
