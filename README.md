@@ -31,9 +31,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdsadeepa&show_icons=true&theme=tokyonight&v=new)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MDSadeepa&show_icons=true&theme=tokyonight&v=new)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdsadeepa&layout=compact&theme=tokyonight&v=new)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MDSadeepa&layout=compact&theme=tokyonight&v=new)
 
 </div>
 
